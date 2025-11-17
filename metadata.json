@@ -1,0 +1,7 @@
+{
+  "name": "LingoSphere AI",
+  "description": "An all-in-one English learning platform powered by Gemini. Features include a vocabulary builder, pronunciation practice, a real-time conversation simulator, reading comprehension exercises, and a grammar checker.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
